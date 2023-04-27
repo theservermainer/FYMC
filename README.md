@@ -1,14 +1,10 @@
 <div align="center">
 
-# Blaze Client
+# FYMC
 
-### Un PrecisionClient personalizado con características QOL, texture packs personalizados, y más.
+### the worst minecraft client ever made, atleast its on your browser!
 
 </div>
-
-## Links
-
-- [Cliente](https://imcasually.github.io/BlazeClient.github.io/compiled/web/index.html)
 
 ## Projects Used
 
