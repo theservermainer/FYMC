@@ -79,7 +79,7 @@ h5, h6 {
 a, a:hover { 
   outline: none;
   text-decoration: underline;
-  color: #09BCE8;
+  color: #e809e8;
 }
 
 a:hover { 
@@ -533,7 +533,7 @@ ul#nav li a {
 }
 
 ul#nav li a:hover, ul#nav li a:focus, ul#nav li.selected a, ul#nav li.selected a:hover, ul#nav li.selected a:focus { 
-  color: #09BCE8;
+  color: #e809e8;
   text-shadow: none;
 }
 
@@ -542,7 +542,7 @@ ul#nav ul li a {
 }
 
 ul#nav ul li a:hover { 
-  color: #09BCE8;
+  color: #e809d2;
   margin-right: 2px;
 }
 
